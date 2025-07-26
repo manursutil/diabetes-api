@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.jupyter
+.virtual_documents
+anaconda_projects
+.DS_Store
+.vscode
+venv
